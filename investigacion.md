@@ -1,4 +1,6 @@
- Investigación – Git Intermedio
+# Investigación – Git y GitHub (Nivel Intermedio)
+
+Respuestas a las preguntas solicitadas en la Parte I de la práctica.
 
  1. ¿Qué es una rama (branch) en Git y para qué se utiliza?
 Una rama es como una copia paralela del proyecto donde se pueden hacer cambios sin afectar directamente la rama principal (`main`).  
@@ -38,3 +40,6 @@ Se usa para colaborar en equipo, revisar el código, discutir mejoras y mantener
 1. **Usar ramas descriptivas** (ejemplo: `feature/login`, `fix/error-formulario`) para mantener el orden.  
 2. **Escribir mensajes de commit claros y cortos** que expliquen qué cambió.  
 3. **Revisar y comentar Pull Requests** de los compañeros antes de aprobarlos, para asegurar calidad y aprendizaje en equipo.
+
+**Autor:** Mirna Calla  
+**Fecha:** 30/09/2025
